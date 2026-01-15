@@ -1,6 +1,7 @@
 Esta práctica es sobre un Dashboard desarrollado con HTML, CSS y JavaScript
 que muestra el estado de distintos servicios en la nube (IaaS, PaaS y SaaS)
 utilizando datos simulados.
+
 Contexto: Me asignaron como desarrollador Frontend Junior para una 
 empresa de tecnología. La primera misión es crear un Tablero de Control
 (Dashboard) que visualice el estado de los servicios en la nube que la empresa
